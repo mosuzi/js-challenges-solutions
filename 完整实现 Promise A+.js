@@ -1,3 +1,4 @@
+// 完整实现过程见 https://mosuzi.com/docs/tech/implement-promise-step-by-step/
 // 使用 Object.freeze 避免对象被篡改
 const STATUS = Object.freeze({
   PENDING: 'pending',
